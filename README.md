@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on VueJs
+- 🔭 I’m currently working on Laravel & VueJs
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on Laravel & VueJs
 
